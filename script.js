@@ -1,1 +1,6 @@
-//your JS code here. If required.
+const isPowerOfTwo = (number) => {
+  //your code here
+};
+
+const num = parseInt(prompt("Enter a number"));
+alert(isPowerOfTwo(num));
